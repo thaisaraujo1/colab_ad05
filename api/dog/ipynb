@@ -46,7 +46,7 @@
       "metadata": {
         "id": "KZ70DJ94_nc5"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [],
       "source": [
         "import os\n",
@@ -68,7 +68,7 @@
       "metadata": {
         "id": "uCkQl9ZT_nc8"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [],
       "source": [
         "pasta = os.path.join(os.getcwd(), 'imagens/dog')\n",
@@ -94,7 +94,7 @@
         "id": "e5Jc2eXh_nc-",
         "outputId": "a6d9e861-6582-4235-db22-4e70abec49b1"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -134,7 +134,7 @@
         "id": "runF9Z-v_ndA",
         "outputId": "529319f5-abda-4ef8-9bec-a693bf40cde1"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
